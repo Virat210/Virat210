@@ -65,8 +65,9 @@
 ### 🗄️ Databases & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,powerbi,git,github,vscode" />
 </p>
+
 
 ### 🧠 Core Concepts
 
