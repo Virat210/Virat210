@@ -65,7 +65,9 @@
 ### 🗄️ Databases & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,powerbi,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 
