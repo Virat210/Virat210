@@ -84,14 +84,27 @@
 ## 🧩 Problem Solving
 
 ### 💡 Coding Progress
+$ whoami
 
-| Platform / Metric | Progress |
-|-------------------|----------|
-| 🟣 Codolio Total Solved | **580+ Questions** |
-| 🟠 LeetCode Solved | **300+ Problems** |
-| 🟢 Active Coding Days | **238+ Days** |
-| 🔥 Maximum Streak | **65 Days** |
-| 📈 Total Submissions | **1050+** |
+Virat Singh
+
+$ ./contributions
+
+██████████████████████ 580+
+
+$ ./leetcode
+
+████████████████       300+
+
+$ ./streak
+
+████████████████████   65 DAYS 🔥
+
+$ ./status
+
+AI/ML + DSA + SOFTWARE DEVELOPMENT
+
+> BUILDING...
 
 <p align="center">
 
