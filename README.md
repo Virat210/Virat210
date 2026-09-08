@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Virat Sing
+# 👋 Hi, I'm Virat Singh
 
 ### 🚀 Computer Science Engineering Student | AI & ML Enthusiast | Problem Solver
 
