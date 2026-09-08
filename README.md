@@ -24,7 +24,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="cente">
 
 <a href="https://www.linkedin.com/in/virat-singh-779aa5311">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
