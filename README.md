@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About M
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering (AIML) student at Galgotias University (2024 – 2028)
 - 💻 Passionate about Software Development, Artificial Intelligence, and Machine Learning
