@@ -127,7 +127,7 @@ Web application that evaluates resumes against targeted job descriptions using k
 
 ---
 
-### 🌱 AI-Crop-Yield-Prediction (SIH 2025)
+### 🌱 KISAN_SAHAYTA (SIH 2025)
 
 Machine learning-powered platform forecasting crop yields with an intuitive, farmer-friendly interface.
 
